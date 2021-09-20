@@ -1,4 +1,4 @@
-// £15 robot project
+// ESP8266 2WD robot project
 // SPIFFS_setup01.ino - sets all the default robot operation parameters into SPIFFS files
 
 #include <ESP8266WiFi.h>
